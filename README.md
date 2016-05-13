@@ -8,7 +8,7 @@ As each word has a real valued vector,it's easy to apply many machine learning m
 Bengali-Word-Embedding is done by using *word2vec* language model.
 *worde2vec* is a neural-networks based model designed by googel.<br>
 If you want to know about word2vec try [google word2vec](https://code.google.com/archive/p/word2vec/).
-Want to know about 'How does word2vec work ?' try [quora-how] (https://www.quora.com/How-does-word2vec-work) <br>
+Want to know about *How does word2vec work ?* try [quora-how] (https://www.quora.com/How-does-word2vec-work) <br>
 
 ## WHY?
 Word Embedding can be used in many NLP task in Bengali language. A short lists is given below ---<br>
