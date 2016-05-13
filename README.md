@@ -14,3 +14,6 @@ Word Embedding can be used in many NLP task.Some short list given:-
 	d.Sentiment Analysis
 	e.Name Entity Recognition
 	f.Contexual Similarity
+
+## HOW CAN I USE IN BENGALI
+
