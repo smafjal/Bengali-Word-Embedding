@@ -6,7 +6,7 @@ It can represent every word or phrase as a set of numbers or like i say a real v
 As each word has a real valued vector,so it's easy to appaly many machine learning method in NLP task.
 
 ## WHY?
-Word Embedding can be used in many NLP task.Some short list given below
+Word Embedding can be used in many NLP task in Bengali language.Some short list given below
 
     - Words Simililarity
     - Parts of Speech Tag
@@ -15,7 +15,17 @@ Word Embedding can be used in many NLP task.Some short list given below
     - Sentiment Analysis
     - Name Entity Recognition
 
-## HOW CAN I USE IN BENGALI
+## HOW ?
+
+### dependency cover
+
+### reader.py 
+
+### train.py
+
+### retrain.py
+
+
 
 
 
