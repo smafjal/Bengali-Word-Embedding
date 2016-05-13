@@ -25,6 +25,9 @@ Word Embedding can be used in many NLP task in Bengali language.Some short list 
 
 ### retrain.py
 
+##THEN?
+
+
 
 
 
