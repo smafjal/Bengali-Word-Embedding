@@ -26,14 +26,19 @@ Gensim is a python machine learning library.To install it try [here](http://juny
 
 ### bd_word_embedding_train.py
     This file is used for train a model.Our corpus folder is 'bd_corpus' , model saved on 'bd_save_model'
-    On terminal run: python bd_word_embedding_train.py
     To generate word vector---- change in 'output_test(model,path)' function
+    ##### On terminal run: 
+        python bd_word_embedding_train.py
     
 ### bd_word_embedding_retrain.py
-    Think a situation like you trained a model my used some corpus-data.But after that some new data are added for embedding.One soluation is to run the model again bu giving all data.
-    Second soluation is to train the model by loading saved model and give only new data.
-    This file can be done the second soluation.You just have to change the bd_corpus_path and give th 'saved_model_path'
-    On terminal run: python bd_word_embedding_retrain.py
+    Think a situation like you trained a model by using some corpus-data.
+    But after that some new data are added for embedding.
+    One soluation is to run the model again by giving all data on model [time consumming].
+    Second soluation is to train the model by loading saved model and retrain model by giving only new data.
+    This file can be done the second soluation for you.
+    You just have to change the bd_corpus_path and give the 'saved_model_path'
+    ##### On terminal run: 
+        python bd_word_embedding_retrain.py
     
 ##THEN?
 
