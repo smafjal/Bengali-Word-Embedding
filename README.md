@@ -40,9 +40,7 @@ This file can be done the second soluation for you.You just have to change the *
 >python bd_word_embedding_retrain.py
     
 ##THEN?
-
-
-
-
-
+##### To know, is to know that you know nothing.<br>
+##### That is the meaning of true knowledge. <br>
+                                    > Socrates
 
