@@ -1,7 +1,7 @@
 # Bengali-Word-Embedding
 ------------------------------
 ## WHAT?
-**Word embedding** is a laguage modeling and feature learning techniques in *Natural Language Processing(NLP)*.<br>
+**Word embedding** is a language modeling and feature learning techniques in *Natural Language Processing(NLP)*.<br>
 It can represent every word or phrase as a set of numbers or like i say a real valued vector.<br>
 As each word has a real valued vector,it's easy to apply many machine learning method in NLP task.<br>
 
