@@ -6,7 +6,7 @@ It can represent every word or phrase as a set of numbers or like i say a real v
 As each word has a real valued vector,it's easy to apply many machine learning method in NLP task.<br>
 
 Bengali-Word-Embedding is done by using *word2vec* language model.
-*worde2vec* is a neural-networks based model designed by googel.<br>
+*worde2vec* is a neural-networks based model designed by google.<br>
 If you want to know about word2vec try [google word2vec](https://code.google.com/archive/p/word2vec/).
 Want to know about *How does word2vec work ?* try [quora-how] (https://www.quora.com/How-does-word2vec-work) <br>
 
